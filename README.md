@@ -1,5 +1,6 @@
 
-# DTF
+# DTF: Enhancing 3D Human Pose Estimation Amidst Severe Occlusion with Dual Transformer Fusion
+**Model Architecture**
 **Video Demo**
 
 
