@@ -2,8 +2,14 @@
 # DTF: Enhancing 3D Human Pose Estimation Amidst Severe Occlusion with Dual Transformer Fusion
 **Model Architecture**
 
-
 **Dataset Setup**
+Please download the dataset from  website and refer to VideoPose3D to set up the Human3.6M dataset ('./dataset' directory). Or you can download the processed data from here.
+
+${POSE_ROOT}/
+|-- dataset
+|   |-- data_3d_h36m.npz
+|   |-- data_2d_h36m_gt.npz
+|   |-- data_2d_h36m_cpn_ft_h36m_dbb.npz
 
 **Experimental Setup**
 
