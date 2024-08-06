@@ -2,6 +2,14 @@
 # DTF: Enhancing 3D Human Pose Estimation Amidst Severe Occlusion with Dual Transformer Fusion
 **Model Architecture**
 
+
+**Installation**
+
+Install PyTorch 1.7.1 and Torchvision 0.8.2 following the official instructions.
+Install dependencies:
+
+pip install -r requirements.txt
+
 **Dataset Setup**
 Please download the dataset from  website and refer to VideoPose3D to set up the Human3.6M dataset ('./dataset' directory). Or you can download the processed data from here.
 
