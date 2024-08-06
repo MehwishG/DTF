@@ -4,7 +4,7 @@
 
 ## Model Architecture
 Proposed Dual Transformer Fusion (DTF) architecture takes severly occluded 2D joint positions as input and estimate realistic 3D pose.
-![DTF_arch_up2_v3 (2)](https://github.com/user-attachments/assets/7f6b4fdf-7811-4d16-a45e-8ad1666f017a)
+<!--- just  ![DTF_arch_up2_v3 (2)](https://github.com/user-attachments/assets/7f6b4fdf-7811-4d16-a45e-8ad1666f017a) --->
 
 
 ## Environment
