@@ -4,10 +4,7 @@
 
 ## Model Architecture
 Proposed Dual Transformer Fusion (DTF) architecture takes severly occluded 2D joint positions as input and estimate realistic 3D pose.
-
-
-[DTF_arch_up2_v3 (2).pdf](https://github.com/user-attachments/files/16509662/DTF_arch_up2_v3.2.pdf)
-
+![DTF_arch_up2_v3 (2)](https://github.com/user-attachments/assets/7f6b4fdf-7811-4d16-a45e-8ad1666f017a)
 
 
 ## Environment
@@ -17,7 +14,7 @@ The code is developed and tested under the following environment:
 
 2. Install dependencies:
  ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Dataset Setup
@@ -27,7 +24,7 @@ pip install -r requirements.txt
 
 3. Alternatively, download the processed data from [here](https://drive.google.com/drive/folders/112GPdRC9IEcwcJRyrLJeYw9_YV4wLdKC).
 ```
-${DTF_occ}/
+${DTF_Occ}/
 |-- dataset
 |   |-- data_3d_h36m.npz
 |   |-- data_2d_h36m_gt.npz
@@ -37,10 +34,17 @@ ${DTF_occ}/
 
 You can download pretrained model for Human 3.6M and MPI-INF-3DHP dataset from [here]().
 
-**Training and Test the Model**
+## Training and Test the Model for Human 3.6M
+** Training with 351 frames on Human 3.6M
+```
+python3 main_h36m.py --frames 351 --batch_size 32
+```
+**  Test
+```
+python3 main_h36m.py --test --previous_dir 'checkpoint/351_severe' --frames 351
+```
 
-
-**Video Demo**
+**Video Demo - Human 3.6M**
 
 3D Pose Estimations with 16 random occluded joints out of 17 for action ``Eating"
 
