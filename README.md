@@ -36,11 +36,11 @@ ${DTF_Occ}/
 You can download pretrained model for Human 3.6M and MPI-INF-3DHP dataset from [here](https://drive.google.com/drive/folders/1mMqX__ItxisexEfHuL3pUOnXhUpzIhQI?usp=sharing).
 
 ## Training and Test the Model for Human 3.6M
-** Training with 351 frames on Human 3.6M **
+**Training with 351 frames on Human 3.6M**
 ```
 python3 main_h36m.py --frames 351 --batch_size 32
 ```
-**  Test **
+**Test**
 ```
 python3 main_h36m.py --test --previous_dir 'checkpoint/351_severe' --frames 351
 ```
