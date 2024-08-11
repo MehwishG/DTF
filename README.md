@@ -67,5 +67,5 @@ https://github.com/MehwishG/DTF/assets/53044443/dd8ef119-5d87-4a0d-b6f8-7d1c81a4
 ## Acknowledgement
 Our code is extended from the following repositories. We thank the authors for releasing the codes.
 
-[MHFormer][https://github.com/Vegetebird/MHFormer?tab=readme-ov-file]
-[T3DCNN][https://github.com/MehwishG/T3D-CNN]
+[MHFormer](https://github.com/Vegetebird/MHFormer?tab=readme-ov-file)
+[T3DCNN](https://github.com/MehwishG/T3D-CNN)
