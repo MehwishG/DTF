@@ -33,7 +33,9 @@ ${DTF_Occ}/
 ```
 ## Pretrained Model
 
-You can download pretrained model for Human 3.6M and MPI-INF-3DHP dataset from [here](https://drive.google.com/drive/folders/1mMqX__ItxisexEfHuL3pUOnXhUpzIhQI?usp=sharing).
+You can download pretrained model for Human 3.6M from [here](https://drive.google.com/drive/folders/1mMqX__ItxisexEfHuL3pUOnXhUpzIhQI?usp=sharing).
+
+For MPI-INF-3DHP, we have followed the setting of [P-STMO](https://github.com/paTRICK-swk/P-STMO)
 
 ## Training and Test the Model for Human 3.6M
 **Training with 351 frames on Human 3.6M**
@@ -64,8 +66,3 @@ https://github.com/MehwishG/DTF/assets/53044443/958f5a10-c75c-41a2-b8f6-0c284574
 **Using PSTMO**
 
 https://github.com/MehwishG/DTF/assets/53044443/dd8ef119-5d87-4a0d-b6f8-7d1c81a49432
-## Acknowledgement
-Our code is extended from the following repositories. We thank the authors for releasing the codes.
-
-[MHFormer](https://github.com/Vegetebird/MHFormer?tab=readme-ov-file)
-[T3DCNN](https://github.com/MehwishG/T3D-CNN)
