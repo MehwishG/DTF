@@ -69,8 +69,10 @@ https://github.com/MehwishG/DTF/assets/53044443/dd8ef119-5d87-4a0d-b6f8-7d1c81a4
 
 
 ## Performance Comparison of MPI-INF-3DHP under Severe Occlusion
+[mpi_16vis_2.pdf](https://github.com/user-attachments/files/16624566/mpi_16vis_2.pdf)
 
-[mpi_16vis_2.pdf](https://github.com/user-attachments/files/16624380/mpi_16vis_2.pdf)
+
+
 
 ![cmp_mpi_mpjpe_up (1)](https://github.com/user-attachments/assets/2014a7e0-c9be-4c6b-9884-ce4f23742d1e)
 
