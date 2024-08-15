@@ -66,3 +66,14 @@ https://github.com/MehwishG/DTF/assets/53044443/958f5a10-c75c-41a2-b8f6-0c284574
 **Using PSTMO**
 
 https://github.com/MehwishG/DTF/assets/53044443/dd8ef119-5d87-4a0d-b6f8-7d1c81a49432
+
+
+## Performance Comparison of MPI-INF-3DHP under Severe Occlusion
+
+[mpi_16vis_2.pdf](https://github.com/user-attachments/files/16624380/mpi_16vis_2.pdf)
+
+![cmp_mpi_mpjpe_up (1)](https://github.com/user-attachments/assets/2014a7e0-c9be-4c6b-9884-ce4f23742d1e)
+
+## Human 3.6M Results using Stacked Hourglass 2D Detections:
+<img width="249" alt="Screen Shot 2024-08-15 at 4 12 50 PM" src="https://github.com/user-attachments/assets/c493e463-cf4c-4b76-9a42-b4542229489b">
+
