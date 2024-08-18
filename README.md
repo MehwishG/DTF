@@ -73,9 +73,14 @@ https://github.com/MehwishG/DTF/assets/53044443/dd8ef119-5d87-4a0d-b6f8-7d1c81a4
 
 
 
-
 ![cmp_mpi_mpjpe_up (1)](https://github.com/user-attachments/assets/2014a7e0-c9be-4c6b-9884-ce4f23742d1e)
 
+## Human 3.6M Results using CPN 2D Detections:
+
+[miss_14cmp (1).pdf](https://github.com/user-attachments/files/16624665/miss_14cmp.1.pdf)
+
+
 ## Human 3.6M Results using Stacked Hourglass 2D Detections:
+
 <img width="249" alt="Screen Shot 2024-08-15 at 4 12 50 PM" src="https://github.com/user-attachments/assets/c493e463-cf4c-4b76-9a42-b4542229489b">
 
