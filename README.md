@@ -1,6 +1,6 @@
 
 # DTF: Enhancing 3D Human Pose Estimation Amidst Severe Occlusion with Dual Transformer Fusion
-> Mehwish Ghafoor, Arif Mahmood
+> Mehwish Ghafoor, Arif Mahmood, Muhammad Bilal
 
 ## Model Architecture
 Proposed Dual Transformer Fusion (DTF) architecture takes severly occluded 2D joint positions as input and estimate realistic 3D pose.
