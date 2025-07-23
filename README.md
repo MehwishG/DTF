@@ -47,6 +47,11 @@ python3 main_h36m.py --frames 351 --batch_size 32
 python3 main_h36m.py --test --previous_dir 'checkpoint/351_severe' --frames 351
 ```
 
+
+**Video Demo - 3DPW Dataset and YouTube Videos**
+
+https://www.youtube.com/watch?v=kQ7zzESBFJI
+
 **Video Demo - Human 3.6M**
 
 3D Pose Estimations with 16 random occluded joints out of 17 for action ``Eating"
